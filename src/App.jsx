@@ -26,10 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Riya Eliza Shaju",
   title: "Data Science Facilitator",
-  email: "riyaelizashaju@gmail.com",
-  gitHub: "https://github.com/riyaeliza123",
+  email: "mailto:riyaelizashaju@gmail.com",
+  gitHub: "riyaeliza123",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/riya-eliza-shaju/",
+  linkedIn: "riya-eliza-shaju",
   medium: "",
   twitter: "",
   youTube: "",
