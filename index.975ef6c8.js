@@ -28643,7 +28643,7 @@ const Home = ({ name , title  })=>{
                 style: {
                     position: "absolute",
                     top: "3rem",
-                    left: "40rem",
+                    left: "50rem",
                     width: "17rem"
                 },
                 children: [
