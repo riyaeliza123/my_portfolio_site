@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Web-based system for skin anomaly classification using Deep Learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A system to detect a skin disease from a given image using 9 sub categories and to describe the severity.",
+    url: "https://github.com/riyaeliza123/Skin-Disease-Classification/tree/main",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Multi criterion decision making using neutrosophy for personality selection based on imposter syndrome",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Dataset collected from students of ages between 19-22. Gender balanced. Asked about their views on societal pressure, gender roles, and how it is different pre and post covid. Created a model predicting the dominant factors in understanding imposter syndrome.",
+    url: "https://github.com/riyaeliza123/imposter-syndrome",
   },
   {
-    title: "My Resume Site",
+    title: "Medical emergency alert system using emotion detection",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A self collected dataset of 5 emotions, namely agony, scared, happy, neutral and sad was created. Model for detection was trained using Transfer learning (MobileNet) and testing was done using CV and PyGame camera modules.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "HEAL - (Hospital Emergency Ambulance Locator)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Worked in research to develop a system that can connect our patients to the hospitals as well as provide them with quick ambulance services through our drivers and also help them get in touch with the doctors",
+    url: "",
   },
 ];
 
