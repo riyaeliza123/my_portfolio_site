@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Web-based system for skin anomaly classification using Deep Learning",
     description:
-      "A system to detect a skin disease from a given image using 9 sub categories and to describe the severity.",
+      "A system to detect a skin disease from a given image using 9 sub categories and to describe the severity. The model is to be deployed as a website with a chatbot feature. Focus area: Computer Vision, Web Development",
     url: "https://github.com/riyaeliza123/Skin-Disease-Classification/tree/main",
   },
   {
